@@ -1,5 +1,47 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Sofia and my nickname is "sofy-petry"!
+# Olá, sou a Sofia! 👋
+
+---
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/173187775?s=400&u=c7e20fdea08c32991d8a2cc6ef92d0e1d6c35cd5&v=4" width="150px;" alt="Minha foto de perfil"/>
+</div>
+
+<h2 align="center">Estudante de Ciência da Computação 🎓</h2>
+<p align="center">
+  💻 Bacharelanda na Universidade Federal de Santa Catarina.
+</p>
+<p align="center">
+  <a href="https://www.udesc.br/cct" target="_blank">
+    <img alt="UDESC" src="https://img.shields.io/badge/UDESC%20CCT-007bff?style=for-the-badge&logo=udesc&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Minhas Habilidades
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,haskell" />
+</p>
+<p align="center">
+  <sub>(Estou aprendendo um pouco sobre essas linguagens!)</sub>
+</p>
+
+---
+
+### 📚 Repositórios de Disciplinas
+
+Aqui você pode encontrar os trabalhos e projetos que desenvolvo durante minha graduação. Eles estão organizados por disciplina.
+
+- [Linguagem de Programação](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202024-2/LPG)
+- [Programação Orientada a Objetos](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-1/POO)
+- [Estruturas de Dados](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-1/EDA)
+- [Programação Funcional](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202024-1/PFN)
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/-Desenvolvido%20com%20♥-gray?style=for-the-badge&labelColor=3d3d3d&logo=heart" />
+</p>
 
 ## Contatos:
 <div>
