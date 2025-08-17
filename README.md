@@ -28,7 +28,15 @@
 </p>
 
 ---
+<div align="center">
+  <h3>📊 Linguagens mais usadas</h3>
+  <br>
+  <a href="https://github.com/sofy-petry">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofy-petry&hide_title=true&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+  </a>
+</div>
 
+---
 ### 📚 Repositórios de Disciplinas
 
 Aqui você pode encontrar os trabalhos e projetos que desenvolvo durante minha graduação. Eles estão organizados por disciplina.
