@@ -1,4 +1,4 @@
-# Olá, sou a Sofia! 👋
+# Olá, sou a Sofia!👋
 
 ---
 
