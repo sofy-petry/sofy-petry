@@ -21,7 +21,7 @@
 ### ⚙️ Minhas Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,haskell" />
+  <img src="https://skillicons.dev/icons?i=c,java,haskell, assembly" />
 </p>
 <p align="center">
   <sub>(Estou aprendendo um pouco sobre essas linguagens!)</sub>
@@ -43,8 +43,11 @@ Aqui você pode encontrar os trabalhos e projetos que desenvolvo durante minha g
 
 - [Linguagem de Programação](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202024-2/LPG)
 - [Programação Orientada a Objetos](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-1/POO)
-- [Estruturas de Dados](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-1/EDA)
+- [Estruturas de Dados 1](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-1/EDA)
+- [Estrutura de Dados 2](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-2/EDA%20II)
 - [Programação Funcional](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202024-1/PFN)
+- [Teoria dos Grafos](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-2/TEG)
+- [Linguagens Formais e Autômatos](https://github.com/sofy-petry/Trabalhos-BCC/tree/main/Trabalhos%202025-2/LFA)
 
 ---
 <p align="center">
