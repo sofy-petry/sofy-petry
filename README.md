@@ -21,8 +21,9 @@
 ### ⚙️ Minhas Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,haskell, assembly" />
+  <img src="https://skillicons.dev/icons?i=c,java,haskell,assembly" />
 </p>
+
 <p align="center">
   <sub>(Estou aprendendo um pouco sobre essas linguagens!)</sub>
 </p>
