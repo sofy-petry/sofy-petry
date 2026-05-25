@@ -8,7 +8,7 @@
 
 <h2 align="center">Estudante de Ciência da Computação 🎓</h2>
 <p align="center">
-  💻 Bacharelanda na Universidade Federal de Santa Catarina.
+  💻 Bacharelanda na Universidade do Estado de Santa Catarina.
 </p>
 <p align="center">
   <a href="https://www.udesc.br/cct" target="_blank">
