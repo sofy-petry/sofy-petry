@@ -57,7 +57,7 @@ Sou estudante de Ciência da Computação na UDESC CCT, em Joinville. Ao longo d
   <a href="mailto:sofiapetrykowski@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https:/www.linkedin.com/in/sofia-petrykowski-soares-26b85034a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>   
 </div>
